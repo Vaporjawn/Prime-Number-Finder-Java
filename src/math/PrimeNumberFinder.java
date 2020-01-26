@@ -1,4 +1,8 @@
 package math;
+/**
+ *
+ * @author Victor Williams/todoslosdays
+ */
 
 import java.util.ArrayList;
 
